@@ -1,0 +1,5 @@
+print("Nombre:Gleyssi Nereyda Barrera Perez")
+print("Grupo:1 sabatino")
+print("Año: 2026")
+print("Fecha: 22/06/2026")
+print("Hora: 4:51 p.m.")
